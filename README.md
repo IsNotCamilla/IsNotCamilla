@@ -62,7 +62,7 @@ ${\textsf{\color{#9b8acb} Hi! I'm Camilla, I'm 18 years old!}}$
 </p>
 
 <p align="center">
-${\textsf{\color{#9b8acb} I enjoy my interests, games, characters, art, and}}$
+${\textsf{\color{#9b8acb} I enjoy my interests,characters and}}$
 <br>
 ${\textsf{\color{#9b8acb} dubbing / voice acting.}}$
 🎙️♡
