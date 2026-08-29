@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-${\textsf{\color{#9b8acb} ♡ 𝓨𝓞𝓤𝓡 𝓝𝓐𝓜𝓔 / 𝓤𝓢𝓔𝓡𝓝𝓐𝓜𝓔 ♡}}$
+${\textsf{\color{#9b8acb} ♡ 𝓒𝓐𝓜𝓘𝓛𝓛𝓐 / 𝓒𝓐𝓜 ♡}}$
 </p>
 
 <p align="center">
