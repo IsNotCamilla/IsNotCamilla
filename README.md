@@ -57,7 +57,7 @@ ${\textsf{\color{#9b8acb} ♡ ᴀ ʟɪᴛᴛʟᴇ ʙɪᴛ ᴀʙᴏᴜᴛ ᴍᴇ 
 </div>
 
 <p align="center">
-${\textsf{\color{#9b8acb} Hi! I'm [NAME], I'm 18 years old!}}$
+${\textsf{\color{#9b8acb} Hi! I'm Camilla, I'm 18 years old!}}$
 ♡
 </p>
 
