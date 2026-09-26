@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/bZKNHTU64rQAAAAd/dave-and-bambi-dave-and-bambi-popcorn-edition.gif" width="230" alt="Dave and Bambi">
+<img src="https://media.tenor.com/A0GWTvlFUSkAAAAM/ok-ko-lets-be-heros-cartoon-network.gif" width="230" alt="OK KO!">
 
 <br>
 
@@ -81,7 +81,7 @@ ${\textsf{\color{#9b8acb} just enjoying the things I love!}}$
 
 <div align="center">
 
-<img src="https://media.tenor.com/8M4BYC9PmC8AAAAM/dave-and-bambi-bambi-fnf.gif" width="180" alt="Bambi - Dave and Bambi">
+<img src="https://i.pinimg.com/originals/96/9b/80/969b80a7cc9d172762c6ddab1e36b888.gif" width="180" alt="OK KO - KO">
 
 ## ${\textsf{\color{#e5989b} ✦ ────── 𝓕𝓐𝓝𝓓𝓞𝓜𝓢 ────── ✦}}$
 
@@ -90,6 +90,11 @@ ${\textsf{\color{#e5989b} ♡ ᴛʜɪɴɢs ɪ ᴇɴᴊᴏʏ ♡}}$
 </p>
 
 </div>
+
+<p align="center">
+<br>
+${\textsf{\color{#ffee8c} ୨୧ 𝖮𝖪 𝖪𝖮 𝖫𝖤𝖳'𝖲 𝖡𝖤 𝖧𝖤𝖱𝖮 ୨୧}}$
+</p>
 
 <p align="center">
 ❤️
@@ -199,7 +204,7 @@ ${\textsf{\color{#9b8acb} ✦ ୨୧ ♡ ୨୧ ✦}}$
 
 ## ${\textsf{\color{#d65a5a} 🚫 ୨୧ ────── 𝓓𝓝𝓘 ────── ୨୧ 🚫}}$
 
-<img src="https://media1.tenor.com/m/01NSrP7ZN80AAAAd/dave-dave-and-bambi.gif" width="250" alt="Dave - Dave and Bambi">
+<img src="https://media.tenor.com/VvU5lxgAj4MAAAAM/ok-ko-kaio-kincaid.gif" width="250" alt="OK KO - KO Crying">
 
 <br>
 
