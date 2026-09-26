@@ -81,7 +81,7 @@ ${\textsf{\color{#9b8acb} just enjoying the things I love!}}$
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/96/9b/80/969b80a7cc9d172762c6ddab1e36b888.gif" width="180" alt="OK KO - KO">
+<img src="https://media.tenor.com/7IVgn4R7s1wAAAAM/fink-ok-ko.gif" width="180" alt="OK KO - KO">
 
 ## ${\textsf{\color{#e5989b} ✦ ────── 𝓕𝓐𝓝𝓓𝓞𝓜𝓢 ────── ✦}}$
 
